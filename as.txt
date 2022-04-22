@@ -1,0 +1,52 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: L=Kamienna Gora, C=PL, O=crypto.app.kuczynski.lukasz, CN=kukiz999
+        Validity
+            Not Before: Apr 16 23:19:45 2022 GMT
+            Not After : Apr 16 23:19:45 2024 GMT
+        Subject: L=Kamienna Gora, C=PL, O=crypto.app.kuczynski.lukasz, CN=kukiz999
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (4096 bit)
+                Modulus:
+                    00:9a:ae:9c:a0:92:8d:a1:12:33:85:48:75:58:b9:
+                    03:7c:e1:48:6b:2e:52:67:ac:e2:22:02:1b:76:31:
+                    78:91:cd:71:51:ea:57:93:d2:d3:d8:3e:c0:ce:1f:
+                    0e:5b:6f:e2:e9:5e:a2:91:b1:74:de:7b:53:df:d6:
+                    d8:b0:87:98:c2:e8:f3:0c:09:17:fe:8f:b4:94:ce:
+                    98:2d:da:e4:2e:96:61:b2:2b:47:21:0e:2d:e0:9f:
+                    93:93:92:5c:34:ce:0e:fc:64:eb:30:dc:3a:a7:e8:
+                    77:4a:9e:85:3a:5f:ed:1c:58:d3:26:51:06:f7:16:
+                    58:d8:d5:90:21:14:5a:79:b6:c2:6f:e0:1c:a4:e2:
+                    02:fe:3f:a9:cc:d7:42:6b:f8:bf:46:a9:fa:d9:6d:
+                    f7:41:62:d6:37:42:a0:d1:56:9f:64:3f:d6:ce:5a:
+                    14:33:5f:d1:f9:0f:b5:67:33:19:f1:07:7e:a0:bb:
+                    c8:4f:d3:4d:61:d9:b1:76:31:2b:96:d5:0c:de:8f:
+                    6a:9f:a7:59:3d:28:06:b4:82:8b:22:9d:6f:5b:2a:
+                    9a:d0:ed:52:69:43:ad:ec:1c:8c:c0:54:f8:4f:ed:
+                    56:e2:1b:46:a0:43:e0:b3:8c:d7:10:a1:3a:a4:43:
+                    73:3a:50:ba:33:5d:92:4f:f3:75:35:3b:14:a8:43:
+                    fd:9c:19:73:19:bc:2e:95:06:5d:5e:ff:e6:02:f4:
+                    6e:09:7d:9f:6e:05:b5:cb:bc:1b:a4:00:b0:3c:4f:
+                    f9:3b:16:03:eb:08:10:b5:1d:71:37:24:47:ed:03:
+                    73:a8:29:b8:37:c2:52:c7:78:65:0e:c9:44:c4:89:
+                    2b:f3:93:ea:c4:96:c0:5c:d3:6e:80:97:37:ff:4b:
+                    9b:96:03:d1:c5:3f:fa:0d:bc:c1:7a:f7:0a:09:1c:
+                    50:3e:77:e7:8c:97:28:54:49:3c:1d:44:79:7f:48:
+                    08:80:73:14:f9:6d:80:f3:5d:6c:86:9a:a3:1a:9f:
+                    8c:3d:da:31:be:6e:13:12:11:2e:6d:fe:1e:e7:09:
+                    a3:8f:b4:8c:e0:8c:9c:42:e5:0e:ae:f9:1c:b7:b1:
+                    e2:28:74:19:e0:8b:07:be:35:00:df:9a:67:96:82:
+                    96:d0:25:4d:d4:fc:0e:22:bc:0c:1a:79:be:b4:e2:
+                    3f:22:73:0b:bc:96:82:4d:e6:6e:2a:b3:3f:58:99:
+                    cb:9b:62:f6:83:a7:5d:98:07:00:f7:4b:eb:3f:e3:
+                    47:20:19:66:a5:dd:4f:2d:09:97:c1:3d:3d:91:7a:
+                    08:4e:d3:4f:82:11:b4:9b:e9:be:0e:76:dc:d8:8e:
+                    6a:92:c5:93:a6:d7:81:f3:58:ea:bb:c5:f2:52:99:
+                    6d:49:81
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha256WithRSAEncryption
+         00
